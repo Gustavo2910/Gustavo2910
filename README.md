@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gustavo Vieira!👋
+### Olá! Me chamo Gustavo Vieira!👋
 
 - 🔭 Atualmente estou estudando programação -->
 -  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Gustavo2910&show_icons=true&theme=dark">
